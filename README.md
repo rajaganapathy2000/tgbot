@@ -6,6 +6,10 @@ bots aiming to provide simple plugin expansion via a simple drag and drop.
 
 Can be found on telegram as [Marie](https://t.me/BanhammerMarie_bot).
 
+## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rajaganapathy2000/tgbot)
+
 For questions regarding creating your own bot, please head to [this chat](https://t.me/MarieOT) where you'll find a
 group of volunteers to help. We'll also help when a database schema changes, and some table column needs to be
 modified/added (this info can also be found in the commit messages)
